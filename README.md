@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Mostafa Magdy
+#I'm software engineer that has a passion in tech filed.
+I'm a senior student at the faculty of computer and artificial intelligence at Helwan university. 
+my mainly skilles in backend development with java and spring boot .
+
+
+ 
 
 <!--
 **MostafaMagdy55/MostafaMagdy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
