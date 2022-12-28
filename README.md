@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mostafa Magdy
 #I'm software engineer that has a passion in tech filed.
-I'm a senior student at the faculty of computer and artificial intelligence at Helwan university. 
+I'm  graduated from faculty of computer and artificial intelligence at Helwan university. 
 my mainly skilles in backend development with java and spring boot .
 
 
